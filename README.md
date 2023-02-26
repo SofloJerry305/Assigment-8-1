@@ -19,12 +19,6 @@ One area for improvement I would like to add is error handling for invalid input
 
  
 
-The most challenging part of writing this code was the logic for checking whether the player has collected all four report cards and avoiding the bully in room 'RM666'. To overcome this, I uses a loop and a delay to simulate the player being caught by the bully. To support this project, resources like documentation, online tutorials, and help from peers or instructors were beneficial to me 
-
- 
-
+The most challenging part of writing this code was the logic for checking whether the player has collected all four report cards and avoiding the bully in room 'RM666'. To overcome this, I uses a loop and a delay to simulate the player being caught by the bully. To support this project, resources like documentation, online tutorials, and help from peers or instructors were beneficial to me.
 The skills from this project that will be transferable to other projects or coursework include using dictionaries to represent data, creating functions to handle different parts of the game logic, and developing user interfaces through the command line.
-
- 
-
 To make the program maintainable, readable, and adaptable, the code uses clear and concise variable names, separates the game logic into functions, and provides comments to explain what each part of the code is doing. Additionally, the code is structured in a way that makes it easy to modify or expand the game layout or instructions.
