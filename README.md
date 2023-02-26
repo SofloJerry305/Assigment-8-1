@@ -1,7 +1,7 @@
 # Assigment-8-1
 Jariel Armanza
 
- 
+ https://www.icloud.com/iclouddrive/04dNtxRpEPo45_UDSLRiBG_6A#IT_140_project_1
 
 My project was from IT140 and is a Python script that implements a text-based game called "Conflict Avoidance Game." The goal of the game is to collect all four report cards while avoiding a bully. The script uses a dictionary to represent the layout of the game and defines two functions to handle displaying instructions and the state of the game.
 
